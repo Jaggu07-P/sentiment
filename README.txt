@@ -1,0 +1,1 @@
+This directory will store the fine-tuned model weights after running finetune.py.
